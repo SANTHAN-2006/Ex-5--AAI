@@ -16,7 +16,7 @@ Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
 
 ## Program:
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
